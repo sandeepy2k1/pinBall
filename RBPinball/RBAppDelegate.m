@@ -1,14 +1,14 @@
 //
-//  AppDelegate.m
-//  pinBall
+//  RBAppDelegate.m
+//  RBPinball
 //
-//  Created by Amit Suneja on 20/02/14.
-//  Copyright (c) 2014 ids. All rights reserved.
+//  Created by Robert Brown on 11/23/13.
+//  Copyright (c) 2013 RB. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "RBAppDelegate.h"
 
-@implementation AppDelegate
+@implementation RBAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {

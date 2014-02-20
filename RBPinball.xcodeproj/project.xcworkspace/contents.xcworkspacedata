@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:pinBall.xcodeproj">
+      location = "self:RBPinball.xcodeproj">
    </FileRef>
 </Workspace>

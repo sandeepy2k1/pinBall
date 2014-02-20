@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "20CE78C018B5D6D00078A2EF"
-               BuildableName = "pinBall.app"
-               BlueprintName = "pinBall"
-               ReferencedContainer = "container:pinBall.xcodeproj">
+               BlueprintIdentifier = "E1D4C5AD184151D70042B6EB"
+               BuildableName = "RBPinball.app"
+               BlueprintName = "RBPinball"
+               ReferencedContainer = "container:RBPinball.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "20CE78E418B5D6D00078A2EF"
-               BuildableName = "pinBallTests.xctest"
-               BlueprintName = "pinBallTests"
-               ReferencedContainer = "container:pinBall.xcodeproj">
+               BlueprintIdentifier = "E1D4C5CE184151D70042B6EB"
+               BuildableName = "RBPinballTests.xctest"
+               BlueprintName = "RBPinballTests"
+               ReferencedContainer = "container:RBPinball.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "20CE78C018B5D6D00078A2EF"
-            BuildableName = "pinBall.app"
-            BlueprintName = "pinBall"
-            ReferencedContainer = "container:pinBall.xcodeproj">
+            BlueprintIdentifier = "E1D4C5AD184151D70042B6EB"
+            BuildableName = "RBPinball.app"
+            BlueprintName = "RBPinball"
+            ReferencedContainer = "container:RBPinball.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "20CE78C018B5D6D00078A2EF"
-            BuildableName = "pinBall.app"
-            BlueprintName = "pinBall"
-            ReferencedContainer = "container:pinBall.xcodeproj">
+            BlueprintIdentifier = "E1D4C5AD184151D70042B6EB"
+            BuildableName = "RBPinball.app"
+            BlueprintName = "RBPinball"
+            ReferencedContainer = "container:RBPinball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "20CE78C018B5D6D00078A2EF"
-            BuildableName = "pinBall.app"
-            BlueprintName = "pinBall"
-            ReferencedContainer = "container:pinBall.xcodeproj">
+            BlueprintIdentifier = "E1D4C5AD184151D70042B6EB"
+            BuildableName = "RBPinball.app"
+            BlueprintName = "RBPinball"
+            ReferencedContainer = "container:RBPinball.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

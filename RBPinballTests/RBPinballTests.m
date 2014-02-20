@@ -1,18 +1,18 @@
 //
-//  pinBallTests.m
-//  pinBallTests
+//  RBPinballTests.m
+//  RBPinballTests
 //
-//  Created by Amit Suneja on 20/02/14.
-//  Copyright (c) 2014 ids. All rights reserved.
+//  Created by Robert Brown on 11/23/13.
+//  Copyright (c) 2013 RB. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface pinBallTests : XCTestCase
+@interface RBPinballTests : XCTestCase
 
 @end
 
-@implementation pinBallTests
+@implementation RBPinballTests
 
 - (void)setUp
 {
